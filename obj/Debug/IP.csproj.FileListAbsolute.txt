@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\опыты\IP\bin\Debug\IP.exe.config
+C:\Users\Alex\Desktop\опыты\IP\bin\Debug\IP.exe
+C:\Users\Alex\Desktop\опыты\IP\bin\Debug\IP.pdb
+C:\Users\Alex\Desktop\опыты\IP\obj\Debug\IP.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\опыты\IP\obj\Debug\IP.Form1.resources
+C:\Users\Alex\Desktop\опыты\IP\obj\Debug\IP.Properties.Resources.resources
+C:\Users\Alex\Desktop\опыты\IP\obj\Debug\IP.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\опыты\IP\obj\Debug\IP.exe
+C:\Users\Alex\Desktop\опыты\IP\obj\Debug\IP.pdb
+C:\Users\Alex\Desktop\опыты\IP\bin\Debug\GMap.NET.Core.dll
+C:\Users\Alex\Desktop\опыты\IP\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Alex\Desktop\опыты\IP\bin\Debug\GMap.NET.Core.xml
+C:\Users\Alex\Desktop\опыты\IP\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Alex\Desktop\опыты\IP\obj\Debug\IP.csproj.CopyComplete
